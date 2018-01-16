@@ -1,6 +1,6 @@
 // 0-tools
+@import "0-tools/bourbon";
 @import "0-tools/fonts";
-@import "0-tools/bourbon/bourbon";
 @import "0-tools/normalize";
 
 // 1-base
@@ -14,3 +14,4 @@
 @import "3-layouts/header";
 
 // 4-pages
+@import "4-pages/home";

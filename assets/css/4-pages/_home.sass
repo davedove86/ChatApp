@@ -1,0 +1,73 @@
+// section title styles
+.section-title
+  font:
+    size: 36px
+    weight: 400
+  color: #434343
+  text-align: center
+  padding: 50px 20px
+  margin: 0
+
+// feature section styles
+.feature
+
+  .flex-wrap
+    display: flex
+    flex-wrap: wrap
+    justify-content: space-around
+
+    .flex-item
+      flex-wrap: wrap
+      width: 395px
+      padding: 20px
+      text-align: center
+
+      img
+        max-width: 250px
+
+      .sub-title
+        font:
+          size: 24px
+          weight: 400
+        color: #434343
+        text-align: center
+        padding: 15px 0
+        margin: 0
+
+      .feature-text
+        font:
+          size: 18px
+          weight: 400
+        color: #7A7A7A
+        text-align: center
+
+// how it works section styles
+.how
+  background: #F5F5F5
+
+  .how-flex-wrap
+    display: flex
+    flex-wrap: wrap
+    align-items: center
+    padding: 30px 20px
+
+    .how-flex-item
+      width: 500px
+      display: flex
+      flex-wrap: wrap
+      margin: 0 auto
+      justify-content: center
+
+      .how-sub-item
+        max-width: 50%
+        display: inline
+        flex-wrap: wrap
+        padding: 30px 20px
+
+
+        img
+          height: 56px
+
+    @media (max-width: 1039px)
+      .how-flex-item
+        text-align: center
