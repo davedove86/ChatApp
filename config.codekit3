@@ -759,6 +759,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/guardian.png": {
+		"ft": 32768,
+		"iS": 8017,
+		"oA": 0,
+		"oAP": "\/assets\/img\/guardian.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/header\/apple-app.png": {
 		"ft": 32768,
 		"iS": 5985,
@@ -841,6 +852,39 @@
 		"iS": 55476,
 		"oA": 0,
 		"oAP": "\/assets\/img\/secure.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/tech.png": {
+		"ft": 32768,
+		"iS": 2609,
+		"oA": 0,
+		"oAP": "\/assets\/img\/tech.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/tnw.png": {
+		"ft": 32768,
+		"iS": 6791,
+		"oA": 0,
+		"oAP": "\/assets\/img\/tnw.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/verge.png": {
+		"ft": 32768,
+		"iS": 7412,
+		"oA": 0,
+		"oAP": "\/assets\/img\/verge.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
